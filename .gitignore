@@ -132,4 +132,5 @@ dmypy.json
 .pyre/
 
 dataset/
-samples/
+*.jpg
+*.mp4
